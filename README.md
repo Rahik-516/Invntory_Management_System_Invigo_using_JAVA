@@ -7,5 +7,7 @@ Updates have been made to the Order page.
 For a detailed understanding, please refer to the project report.
 If you need any assistance or have any questions about the project, feel free to contact me via LinkedIn.
 A demo of the GUI is Shown below (Full details in Project Report that is uploaded in this Repo):
-![image](https://github.com/user-attachments/assets/4dffaef4-4a53-478b-b007-1d0e8d9742dd)
-![image](https://github.com/user-attachments/assets/a0e3a30a-e6b0-40e7-98df-c4d608756494)
+![image](https://github.com/user-attachments/assets/a418bc95-0ddb-4bc6-b1ee-6cde05641f36)
+![image](https://github.com/user-attachments/assets/0f29c9ed-e995-4a17-b38c-8dc81e007e80)
+
+
